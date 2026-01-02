@@ -1,0 +1,11 @@
+﻿  Bullet.cpp
+  CollisionManager.cpp
+  Enemy.cpp
+  Entity.cpp
+  Explosion.cpp
+  Game.cpp
+  HUD.cpp
+  main.cpp
+  Player.cpp
+  Generating Code...
+  SpaceShooter.vcxproj -> C:\Users\Josip\source\repos\SpaceShooter\x64\Debug\SpaceShooter.exe
