@@ -1,0 +1,10 @@
+﻿  entiteti.cpp
+  headup.cpp
+C:\Users\LeNovo\source\repos\SFML_Test\SFML_Test\headup.cpp(5,22): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  igra.cpp
+  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 509 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SFML_Test.vcxproj -> C:\Users\LeNovo\source\repos\SFML_Test\x64\Release\SFML_Test.exe
